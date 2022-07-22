@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "909582810323",
+    "firebase_url": "https://group-project-ict650-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "group-project-ict650",
+    "storage_bucket": "group-project-ict650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909582810323:android:73426e716b350131df6826",
+        "android_client_info": {
+          "package_name": "com.example.group_project_ict650"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofR-MNbxF_ICuotBM5Vf71DrCDQB4oLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909582810323:android:19114a4b982079fedf6826",
+        "android_client_info": {
+          "package_name": "com.example.groupproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofR-MNbxF_ICuotBM5Vf71DrCDQB4oLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909582810323:android:73cfdecd74b78037df6826",
+        "android_client_info": {
+          "package_name": "com.example.lab7_samad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofR-MNbxF_ICuotBM5Vf71DrCDQB4oLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909582810323-g4ri56vcfaij1d0d9kckru6ian28hsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
